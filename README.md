@@ -9,13 +9,17 @@
   - ![image](https://github.com/user-attachments/assets/9ccf1de9-4e13-4f3c-a5ae-de59a1a1501e)
   - download Azure OS Ticket System
   - ![image](https://github.com/user-attachments/assets/8cb1d286-70c4-4ef4-9a23-9004c082b0cb)
+  - enable internet information services cgi
+  - ![image](https://github.com/user-attachments/assets/662f921c-3c4b-471a-a5fd-40b0c72b20a3)
+  - 
 
 
 
 
 
-###  2. Create the log analytics workspace
-  - ![image](https://github.com/user-attachments/assets/1b8b3589-7847-4054-8ab4-ab998dee25fd)
+
+###  2. interet information services
+  - ![image](https://github.com/user-attachments/assets/d8d48acf-5616-40bf-9ed4-9f45cbc3ef4b)
 
 
 
