@@ -29,6 +29,9 @@
     ![image](https://github.com/user-attachments/assets/d5717ab6-b2ad-4735-ad95-0310a75da644)
   - move osTicket to wwwroot
   - ![image](https://github.com/user-attachments/assets/76d6bd4f-8bf9-48c6-a227-dcf9b71cde4f)
+  - install heidsql
+  - ![image](https://github.com/user-attachments/assets/c9e48ab5-5ca2-47a1-a581-02c3792c87d0)
+
 
 
 
@@ -48,7 +51,13 @@
   ### 4. os tick
   - change pemissions of ostconfig in osticket folder
   - ![image](https://github.com/user-attachments/assets/29ee7d37-894f-49f8-8df8-152d188f022d)
-  - 
+  - install osTicket
+  - ![image](https://github.com/user-attachments/assets/cf448293-19c8-423f-a0d7-78bc08d1e79a)
+  - install HeidSQL
+  - ![image](https://github.com/user-attachments/assets/6a9d15e8-7fa6-457b-8cd1-0657fe98e9df)
+
+
+
 
   - copy custome log from vm
 
