@@ -55,6 +55,9 @@
   - ![image](https://github.com/user-attachments/assets/cf448293-19c8-423f-a0d7-78bc08d1e79a)
   - install HeidSQL
   - ![image](https://github.com/user-attachments/assets/6a9d15e8-7fa6-457b-8cd1-0657fe98e9df)
+  - login
+  - ![image](https://github.com/user-attachments/assets/2bdbbcd2-8248-4d14-942a-50daae890881)
+
 
 
 
